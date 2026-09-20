@@ -41,7 +41,7 @@ A REST API built with Node.js and Express.js for managing users and products, in
 
 | Method | Endpoint           | Description                    |
 | ------ | ------------------ | ------------------------------ |
-| POST   | `/products/upload` | Create a product with an image |
+| POST   | `/products/upload/:userId` | Create a product with an image |
 | GET    | `/products/getall` | Get all products               |
 
 ## Project Structure
