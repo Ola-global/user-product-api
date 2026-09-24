@@ -2,6 +2,8 @@
 
 A REST API built with Node.js and Express.js for managing users and products, including CRUD operations, password hashing, product image uploads, and user-product relationships.
 
+Live API: https://user-product-api-u7i4.onrender.com
+
 ## Tech Stack
 
 * Node.js
