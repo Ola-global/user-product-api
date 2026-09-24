@@ -17,7 +17,7 @@ mongoose.connect(atlas_string)
 
 
 const app = express()
-const port = 5555
+const port = process.env.PORT || 5555
 
 
 app.use(express.json())
